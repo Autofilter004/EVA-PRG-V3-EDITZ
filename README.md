@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/8a551da2ed9feb78d0076.jpg" alt="MHD THANZEER">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>A MHD THANZEER PRODUCT</b>
 </h1>
 
 
