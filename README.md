@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Autofilter004/Eva-Version-3/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Autofilter004/EVA-PRG-V3-EDITZ/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
